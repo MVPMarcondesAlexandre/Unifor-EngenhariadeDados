@@ -9,14 +9,15 @@ Usando **Amazon AWS**
 Dados históricos meteorológicos.  
 
 🔗 Link direto (ZIP com CSV):  
-- Dados Históricos INMET 2022  
-- Dados Históricos INMET 2023  
+ 📥 [Baixar dados históricos INMET 2022](https://portal.inmet.gov.br/uploads/dadoshistoricos/2022.zip)
+ 📥 [Baixar dados históricos INMET 2023](https://portal.inmet.gov.br/uploads/dadoshistoricos/2023.zip)
+
 
 ### 🔹 **ANP (Combustíveis)**  
 Preços semanais de combustíveis (Etanol + Gasolina Comum - Maio/2025, Junho/2025 e Julho/2025).  
 
 🔗 Link direto (dados.gov.br):  
-- CSV Completo ANP  
+📊 [Baixar Série Histórica de Preços de Combustíveis e GLP (ANP)](https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp)
 
 ---
 
